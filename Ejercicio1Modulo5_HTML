@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disposición de elementos en CSS</title>
+    <link rel="stylesheet" href="/OB/05-DISPOSICIONES/css/Module05-Exercise.css" class="css">
+</head>
+<body>
+    <div class="galeria">
+        <img class="imagen1" src="https://i.pinimg.com/originals/66/19/a5/6619a50ce6cdf816866a0a918047a003.jpg" alt="imagen1">
+        <img class="imagen2" src="https://i.ytimg.com/vi/Av2GJfIhyWg/maxresdefault.jpg" alt="imagen2">
+        <img class="imagen3" src="https://i.pinimg.com/736x/99/fe/89/99fe89dc2b7033ee6b9a7b1757378e0e.jpg" alt="imagen3">
+        <img class="imagen4" src="https://i.ytimg.com/vi/YnJwrWKjIWY/maxresdefault.jpg" alt="imagen4">
+        <img class="imagen5" src="https://lostmediawiki.com/images/f/f4/Screenshot_2022-08-22_133517.png" alt="imagen5">
+        <img class="imagen6" src="https://i.pinimg.com/736x/40/db/1a/40db1a5a8cf020ce8af380224fa3d411.jpg" alt="imagen6">
+    </div>
+</body>
+</html>
